@@ -1,11 +1,20 @@
 {
+<<<<<<< HEAD
   "name": "hoc_demo",
+=======
+  "name": "demoreact",
+>>>>>>> 00fb6cd5836dbf65210a6b64ea505e1d66daa56a
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+<<<<<<< HEAD
     "react-scripts": "3.0.1"
+=======
+    "react-scripts": "3.0.1",
+    "tachyons": "^4.11.1"
+>>>>>>> 00fb6cd5836dbf65210a6b64ea505e1d66daa56a
   },
   "scripts": {
     "start": "react-scripts start",
